@@ -1,18 +1,10 @@
 {
-  "logging": {
-    "level": "debug"
-  }
-  "options": {
-    "paths": {
-      "root": "./"
-    }
-  },
   "styles": {
-    "external": {
-      "style": "https://tiles1.squadrats.com/planet/1741854114/street.json",
+    "osm-bright": {
+      "style": "https://demotiles.maplibre.org/style.json",
       "tilejson": {
         "tiles": [
-          "https://tiles1.squadrats.com/BuUeIIABwWVFnxLqRtU063kMlS02/trophies/1746950271414/{z}/{x}/{y}.pbf"
+          "https://demotiles.maplibre.org/tiles/{z}/{x}/{y}.pbf"
         ]
       }
     }
