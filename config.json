@@ -9,7 +9,7 @@
       "style": "https://example.com/style.json",
       "tilejson": {
         "tiles": [
-          "https://your-tiles-server/{z}/{x}/{y}.pbf"
+          "https://tiles1.squadrats.com/BuUeIIABwWVFnxLqRtU063kMlS02/trophies/1746950271414/{z}/{x}/{y}.pbf"
         ]
       }
     }
