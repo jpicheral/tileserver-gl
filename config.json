@@ -1,0 +1,17 @@
+{
+  "options": {
+    "paths": {
+      "root": "./"
+    }
+  },
+  "styles": {
+    "external": {
+      "style": "https://example.com/style.json",
+      "tilejson": {
+        "tiles": [
+          "https://your-tiles-server/{z}/{x}/{y}.pbf"
+        ]
+      }
+    }
+  }
+}
