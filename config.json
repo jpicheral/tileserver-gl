@@ -1,4 +1,7 @@
 {
+  "logging": {
+    "level": "debug"
+  }
   "options": {
     "paths": {
       "root": "./"
